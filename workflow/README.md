@@ -9,5 +9,14 @@
 ~ npm init
 
 - semantic versioning
-~ npm install --save-dev gulp
+
 - create gulpfile.js
+~ npm install --save-dev gulp
+~ npm install --save-dev gulp-util
+
+- coffeescript:
+~ npm install --save-dev gulp-coffee
+~ gulp coffee
+
+- gulp concat
+~ gulp js
