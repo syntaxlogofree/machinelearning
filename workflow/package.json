@@ -6,11 +6,15 @@
     "type": "git",
     "url": "https://github.com/planetoftheweb/workflows.git"
   },
-  "author": "Xuan Ye",
+  "author": "Ray Villalobos",
   "devDependencies": {
     "gulp": "^3.6.2",
+    "gulp-util": "^2.2.14",
     "gulp-coffee": "^1.4.3",
-    "gulp-concat": "^2.6.1",
-    "gulp-util": "^2.2.14"
+    "gulp-concat": "^2.2.0",
+    "gulp-browserify": "^0.5.0",
+    "jquery": "^2.1.1",
+    "mustache": "^0.8.1",
+    "gulp-compass": "^1.1.9"
   }
 }

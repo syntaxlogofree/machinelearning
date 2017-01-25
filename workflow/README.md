@@ -20,3 +20,11 @@
 
 - gulp concat
 ~ gulp js
+
+- browserify (dependencies)
+~ npm install --save-dev gulp-browserify
+~ npm install --save-dev mustache
+~ npm install --save-dev jquery
+
+- compass
+. config.rb
